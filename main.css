@@ -1,3 +1,10 @@
 body{
-    background-color: green
+    background-color: green;
+}
+.cards{
+    max-width: 50%;
+
+}
+.cards > img{
+    max-width: 70%;
 }
